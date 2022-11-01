@@ -1,6 +1,7 @@
 <div align="center">
-## Command Line Employee Tracker
-
+<strong>
+Command Line Employee Tracker
+</strong>
 </div>
 
 ## *Table of Contents*
