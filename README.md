@@ -1,5 +1,5 @@
 <div align="center">
-# Command Line Employee Tracker
+## Command Line Employee Tracker
 
 </div>
 
