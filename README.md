@@ -21,9 +21,7 @@ Steps to follow to install weather-dashboard project:
 4. Final step, enjoy the project
 
 ## *Usage*
-- This application runs entirely in the command line. The prompts interact with the data stored in the connected Employees MySQL database.
-- To begin viewing and editing Employee information, type `npm start` in the terminal to spin up the server.
-- Then, use the arrow keys and `ENTER` to make your menu selections.
+Run `node index.js` in terminal
 
 ## *Screenshot*
 
