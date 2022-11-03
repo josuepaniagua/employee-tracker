@@ -25,7 +25,7 @@ Run `node index.js` in terminal
 
 ## *Screenshot*
 
-
+![alt text](./screenshots/Screenshot1.png)
 
 
 
